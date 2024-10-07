@@ -4,7 +4,7 @@ This project is an E-Commerce application built using Next.js, React.js, Redux, 
 ## Features
 ### Customer
 1. Login/Sign-Up: Customers can register and login to their account.
-2. Product Listing: Customers can view products with categories and filters.
+2. Product Listing: Customers can view products with categories.
 3. Cart Management: Customers can manage the items in their cart and proceed to checkout.
 4. Order Placement: Place an order and view a summary of orders placed.
 ### Store Owner
